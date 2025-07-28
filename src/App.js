@@ -13,7 +13,7 @@ const App = () => {
         postText="cute girl!"
         postImage='download.jpg'
       />
-  
+      new component
     </div>
   )
 }
