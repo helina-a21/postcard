@@ -9,7 +9,6 @@ const App = () => {
   return (
     <div>
       <PostCard
-      className="max-w-200"
         user={user}
         postText="cute girl!"
         postImage='download.jpg'
